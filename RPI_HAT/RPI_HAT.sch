@@ -19,7 +19,7 @@ U 1 1 5FA49463
 P 5400 3500
 F 0 "J1" H 5900 5000 50  0000 C CNN
 F 1 "Raspberry_Pi_2_3" H 6000 4900 50  0000 C CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_2x08_P2.54mm_Vertical" H 5400 3500 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical" H 5400 3500 50  0001 C CNN
 F 3 "https://www.raspberrypi.org/documentation/hardware/raspberrypi/schematics/rpi_SCH_3bplus_1p0_reduced.pdf" H 5400 3500 50  0001 C CNN
 	1    5400 3500
 	1    0    0    -1  
@@ -63,7 +63,7 @@ U 1 1 5FA4F983
 P 6600 4150
 F 0 "D1" V 6639 4032 50  0000 R CNN
 F 1 "LED" V 6548 4032 50  0000 R CNN
-F 2 "LED_SMD:LED_0402_1005Metric_Castellated" H 6600 4150 50  0001 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric" H 6600 4150 50  0001 C CNN
 F 3 "~" H 6600 4150 50  0001 C CNN
 	1    6600 4150
 	0    -1   -1   0   
@@ -74,7 +74,7 @@ U 1 1 5FA505C1
 P 3600 3650
 F 0 "U1" H 3356 3696 50  0000 R CNN
 F 1 "DHT11" H 3356 3605 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 3600 3250 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 3600 3250 50  0001 C CNN
 F 3 "http://akizukidenshi.com/download/ds/aosong/DHT11.pdf" H 3750 3900 50  0001 C CNN
 	1    3600 3650
 	1    0    0    -1  
@@ -278,7 +278,7 @@ U 1 1 5FAD6C9D
 P 7250 4150
 F 0 "D2" V 7289 4032 50  0000 R CNN
 F 1 "LED" V 7198 4032 50  0000 R CNN
-F 2 "LED_SMD:LED_0402_1005Metric_Castellated" H 7250 4150 50  0001 C CNN
+F 2 "LED_SMD:LED_0805_2012Metric" H 7250 4150 50  0001 C CNN
 F 3 "~" H 7250 4150 50  0001 C CNN
 	1    7250 4150
 	0    -1   -1   0   
